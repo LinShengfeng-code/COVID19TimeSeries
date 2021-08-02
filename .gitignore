@@ -1,0 +1,7 @@
+/.ipynb_checkpoints/
+/PPT/
+/notebooks/
+/__pycache__/
+.DS_Dtore
+# 项目排除路径
+/data/
